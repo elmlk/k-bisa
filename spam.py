@@ -13,7 +13,7 @@ __banner__ = ('''
 %s ###############################
  # %scode : Elang Malaka         %s#
  # %stype : wa/email             %s#
- # %steam : xiuz.sec             %s#
+ # %WA.   : 081295523921         %s#
  ###############################%s
     ''' % (c,w,c,w,c,w,c,w))
 
