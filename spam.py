@@ -11,7 +11,7 @@ w='\033[0m'
 __banner__ = ('''
   spam kita bisa gan :V
 %s ###############################
- # %scode : Elang Malaka             %s#
+ # %scode : Elang Malaka         %s#
  # %stype : wa/email             %s#
  # %steam : xiuz.sec             %s#
  ###############################%s
